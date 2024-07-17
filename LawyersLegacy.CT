@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Health"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01CAC5F8</Address>
+      <Offsets>
+        <Offset>194</Offset>
+        <Offset>20</Offset>
+        <Offset>30</Offset>
+        <Offset>60</Offset>
+        <Offset>28</Offset>
+        <Offset>30</Offset>
+        <Offset>A0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Mana"</Description>
+      <DropDownList>20:Godmode
+13:Full Power
+</DropDownList>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01CAC5F8</Address>
+      <Offsets>
+        <Offset>C0</Offset>
+        <Offset>178</Offset>
+        <Offset>20</Offset>
+        <Offset>30</Offset>
+        <Offset>60</Offset>
+        <Offset>30</Offset>
+        <Offset>A0</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
