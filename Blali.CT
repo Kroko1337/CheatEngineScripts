@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <Forms>
+    <UDF1 Class="TCEForm" Encoding="Ascii85">D]sF_2nldAU:MM2b.}cxWeIh0Gi32eO*FuZ%+f]Enwg$a!mPu^9Fkwa,^=fko_#gT0pzngCl-]s:I612*w4S1:j0c$sHmtg?VcZHXQt/cWag#?1b8w{VBm7g(nwXbD]00((I!-REJ/Zx000</UDF1>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Ammo (World 3)"</Description>
+      <LastState Value="0" RealAddress="087A4530"/>
+      <VariableType>Double</VariableType>
+      <Address>"Blali.exe"+001AF2F4</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>17C</Offset>
+        <Offset>90</Offset>
+        <Offset>40</Offset>
+        <Offset>80</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"Ammo (World 6)"</Description>
+      <LastState Value="6" RealAddress="063563D8"/>
+      <VariableType>Double</VariableType>
+      <Address>"Blali.exe"+001AF2F0</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>4</Offset>
+        <Offset>10C</Offset>
+        <Offset>0</Offset>
+        <Offset>160</Offset>
+        <Offset>7C</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"World Teleport Exploit (You need to die)"</Description>
+      <LastState Value="25" RealAddress="005AF2F8"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Blali.exe"+0018A014</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"Coins"</Description>
+      <LastState Value="367" RealAddress="00587B5C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"D3DX8.dll"+00065C10</Address>
+      <Offsets>
+        <Offset>C08</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
